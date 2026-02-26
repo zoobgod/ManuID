@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Merck KGaA Life Science",
+    "company_type": "BOTH",
+    "website": "https://www.sigmaaldrich.com",
+    "hq_country": "Germany",
+    "certifications": ["ISO 9001"],
+    "compliance": {
+      "pharmacopeia_supported": ["USP", "EP", "JP"],
+      "dmf_available": false,
+      "cep_available": false
+    },
+    "regions_served": ["NA", "EU", "APAC"],
+    "lead_time_days_range": {"min": 7, "max": 30},
+    "moq_range": {"min": 1, "max": 100, "unit": "kg"},
+    "confidence_score": 0.62,
+    "verification_source": "https://www.sigmaaldrich.com",
+    "status": "ACTIVE",
+    "verification_state": "UNVERIFIED",
+    "contacts": [
+      {
+        "type": "SALES",
+        "email": "customerservice@sial.com",
+        "phone": "+1 800 325 3010"
+      }
+    ],
+    "product_type_slugs": [
+      "usp_reference_standards",
+      "analytical_reagents",
+      "pharmacopoeial_excipients"
+    ]
+  },
+  {
+    "name": "Spectrum Chemical",
+    "company_type": "MANUFACTURER",
+    "website": "https://www.spectrumchemical.com",
+    "hq_country": "United States",
+    "certifications": ["ISO 9001", "GMP"],
+    "compliance": {
+      "pharmacopeia_supported": ["USP", "NF"],
+      "dmf_available": false,
+      "cep_available": false
+    },
+    "regions_served": ["NA", "LATAM"],
+    "lead_time_days_range": {"min": 5, "max": 21},
+    "moq_range": {"min": 1, "max": 200, "unit": "kg"},
+    "confidence_score": 0.68,
+    "verification_source": "https://www.spectrumchemical.com",
+    "status": "ACTIVE",
+    "verification_state": "UNVERIFIED",
+    "contacts": [
+      {
+        "type": "SALES",
+        "email": "sales@spectrumchemical.com",
+        "phone": "+1 800 772 8786"
+      }
+    ],
+    "product_type_slugs": [
+      "pharmacopoeial_excipients",
+      "analytical_reagents"
+    ]
+  },
+  {
+    "name": "Avantor",
+    "company_type": "BOTH",
+    "website": "https://www.avantorsciences.com",
+    "hq_country": "United States",
+    "certifications": ["ISO 9001"],
+    "compliance": {
+      "pharmacopeia_supported": ["USP", "EP"],
+      "dmf_available": false,
+      "cep_available": false
+    },
+    "regions_served": ["NA", "EU", "APAC"],
+    "lead_time_days_range": {"min": 7, "max": 28},
+    "moq_range": {"min": 1, "max": 100, "unit": "kg"},
+    "confidence_score": 0.6,
+    "verification_source": "https://www.avantorsciences.com",
+    "status": "ACTIVE",
+    "verification_state": "UNVERIFIED",
+    "contacts": [
+      {
+        "type": "SALES",
+        "email": "customerservice@avantorsciences.com",
+        "phone": "+1 610 573 2600"
+      }
+    ],
+    "product_type_slugs": [
+      "sterile_consumables",
+      "analytical_reagents",
+      "pharmacopoeial_excipients"
+    ]
+  },
+  {
+    "name": "TCI Chemicals",
+    "company_type": "MANUFACTURER",
+    "website": "https://www.tcichemicals.com",
+    "hq_country": "Japan",
+    "certifications": ["ISO 9001"],
+    "compliance": {
+      "pharmacopeia_supported": ["JP", "USP", "EP"],
+      "dmf_available": false,
+      "cep_available": false
+    },
+    "regions_served": ["APAC", "NA", "EU"],
+    "lead_time_days_range": {"min": 10, "max": 35},
+    "moq_range": {"min": 1, "max": 50, "unit": "kg"},
+    "confidence_score": 0.58,
+    "verification_source": "https://www.tcichemicals.com",
+    "status": "ACTIVE",
+    "verification_state": "UNVERIFIED",
+    "contacts": [
+      {
+        "type": "SALES",
+        "email": "global@tcichemicals.com",
+        "phone": "+81 3 5640 8878"
+      }
+    ],
+    "product_type_slugs": [
+      "analytical_reagents",
+      "active_pharmaceutical_ingredients"
+    ]
+  }
+]

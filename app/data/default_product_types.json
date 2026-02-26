@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "usp_reference_standards",
+    "name": "USP Reference Standards",
+    "description": "Certified reference materials aligned to USP monographs",
+    "keywords": ["reference standards", "usp rs", "crm"],
+    "pharmacopeia": ["USP"]
+  },
+  {
+    "slug": "pharmacopoeial_excipients",
+    "name": "Pharmacopoeial Excipients",
+    "description": "Compendial excipients used in pharmaceutical manufacturing",
+    "keywords": ["excipients", "bp excipients", "ep excipients"],
+    "pharmacopeia": ["USP", "EP", "BP"]
+  },
+  {
+    "slug": "active_pharmaceutical_ingredients",
+    "name": "Active Pharmaceutical Ingredients",
+    "description": "API manufacturers and authorized distributors",
+    "keywords": ["api", "drug substance", "bulk api"],
+    "pharmacopeia": ["USP", "EP", "JP", "ChP"]
+  },
+  {
+    "slug": "analytical_reagents",
+    "name": "Analytical Reagents",
+    "description": "Analytical reagents for pharmacopeial testing",
+    "keywords": ["hplc solvents", "reagents", "qc reagents"],
+    "pharmacopeia": ["USP", "EP"]
+  },
+  {
+    "slug": "sterile_consumables",
+    "name": "Sterile Consumables",
+    "description": "Sterile filters, tubing, bags, and process consumables",
+    "keywords": ["sterile filters", "single use", "consumables"],
+    "pharmacopeia": ["USP", "EP"]
+  }
+]
